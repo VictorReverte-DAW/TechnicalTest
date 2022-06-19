@@ -1,3 +1,37 @@
+
+<h3>Requisitos:</h3>
+<ul>
+<li>React ^18.2.0</li>
+</ul>
+<h3>Instalación:</h3>
+<ul>
+<li>React ^18.2.0</li>
+<li>Acceder la carpeta “technicaltest” y ejecutar “npm start”</li>
+<li>Acceder al localhost http://localhost:YOU_PORT/</li>
+</ul>
+<ol>
+  <li><strong>Is a anagragrama?</strong></li>
+   <ul>
+    <li>Pasando por parámetro 2 textos, comprueba si son anagramas</li>
+  </ul>
+  <li><strong>Fibonacci</strong></li>
+   <ul>
+    <li>Pasando un numero por parámetro, devuelve la secuencia de Fibonacci</li>
+  </ul>
+  <li><strong>Count Word</strong></li>
+  <ul>
+    <li>Pasando una frase por parámetro el número de palabras</li>
+  </ul>
+  <li><strong>Filter Number</strong></li>
+  <ul>
+    <li>Pasando una cadena de caracteres, devuelve los únicos números</li>
+  </ul>
+  <li><strong>Counting non-repeating letters</strong></li>
+    <ul>
+    <li>Pasando 2 cadenas de texto, devuelve las letras que se repiten en ambos textos</li>
+  </ul>
+ </ol>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
